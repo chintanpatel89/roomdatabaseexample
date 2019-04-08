@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomDatabaseExample</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_year">Movie Year</string>
+    <string name="reset">Reset</string>
+    <string name="add">Add</string>
+</resources>
